@@ -83,7 +83,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 ##  GitHub Analytics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavobarrosss&theme=tokyonight" />
 </div>
 
 ---
