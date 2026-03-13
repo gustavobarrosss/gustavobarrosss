@@ -64,7 +64,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 🌟 Studies
+##  Studies
 
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
@@ -72,7 +72,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## 📊 Focus Sectors
+##  Focus Sectors
 
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Focus Areas"/>
@@ -80,7 +80,7 @@ Sou graduando em **Inteligência Artificial pela UFG** e movido pelo desafio de 
 
 ---
 
-## ⚙️ GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indegustavel&theme=tokyonight" />
