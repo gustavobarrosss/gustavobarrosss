@@ -17,3 +17,6 @@ htmlcov/
 *.swo
 *.log
 requirements-dev.txt
+
+config.yml
+config.example.yml
