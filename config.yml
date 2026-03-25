@@ -27,23 +27,23 @@ galaxy_arms:
   - name: "Intelligence & NLP"
     color: "dendrite_violet"
     items:
-      - "Transformers (Hugging Face)"
-      - "Data Science (scikit-learn & Pandas)"
-      - "Word Embeddings (Gensim)"
+      - "Transformers"
+      - "Data Science"
+      - "Fine-Tuning"
       
   - name: "AI Engineering"
     color: "synapse_cyan"
     items:
-      - "Agents (LangChain & CrewAI)"
-      - "RAG (LlamaIndex)"
-      - "APIs (FastAPI)"
+      - "AI Agents"
+      - "RAG"
+      - "APIs"
 
   - name: "MLOps & Cloud"
     color: "axon_amber"
     items:
       - "MLOps Lifecycle"
       - "Docker & Containers"
-      - "CI/CD (GitHub Actions)"
+      - "CI/CD"
 
 # Featured projects shown as constellation stars
 # Each project needs:
